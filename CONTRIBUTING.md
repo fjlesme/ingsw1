@@ -38,7 +38,7 @@ Un Pull Request que no siga estas reglas será rechazado o editado por la cáted
 
 Los ejercitarios **no se entregan en este repositorio** ni por Pull Request: se completan directamente en el repositorio propio de cada grupo (el mismo que usan para el Trabajo Práctico).
 
-## Pasos (una sola vez, al principio del cuatrimestre)
+## Pasos (una sola vez, al principio del semestre)
 
 1. Descarguen la carpeta de plantilla: [`ejercitarios-plantilla/ejercitarios_carpeta.zip`](ejercitarios-plantilla/ejercitarios_carpeta.zip).
 2. Descomprímanla y arrastren la carpeta `ejercitarios/` a la raíz de **su propio repositorio** (el del TP), usando "Add file → Upload files" como ya hicieron con el resto de su repo.
