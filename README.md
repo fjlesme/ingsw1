@@ -36,7 +36,7 @@ Antes de arrancar la Unidad 1, completá el [test diagnóstico](https://fjlesme.
 
 ### 📝 Cómo se entregan los ejercitarios
 
-Los ejercitarios se completan **en grupo** (el mismo grupo de 3 del Trabajo Práctico) y se entregan dentro del **repositorio propio del grupo** — el mismo que usan para el TP —, no en este repositorio.
+Los ejercitarios se completan **en grupo** (el mismo grupo del Trabajo Práctico) y se entregan dentro del **repositorio propio del grupo** — el mismo que usan para el TP —, no en este repositorio.
 
 1. Al principio del semestre, cada grupo agrega una sola vez la carpeta [`ejercitarios/`](ejercitarios-plantilla/ejercitarios) a la raíz de su propio repositorio (o descarga directo el [.zip listo para arrastrar](ejercitarios-plantilla/ejercitarios_carpeta.zip)).
 2. Por cada unidad, completan `ejercitarios/unidad-0X/respuestas.md` editándolo directo desde la web de GitHub.
