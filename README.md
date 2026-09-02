@@ -66,6 +66,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | _(ejemplo)_ | Nombre 1, Nombre 2, Nombre 3 | Sistema de turnos para clínica veterinaria | https://usuario.github.io/repositorio/ |
 | Grupo 1 | Adan Sebastián Estigarribia Vargas, Ángel David Invernizzi Franco, Fabián Andrés Giménez Garcete, Javier De Jesús Franco Vega | Sistema de control de stock para chiperia | https://javierfranco02.github.io/Ingenieria_de_software_I/ |
 | Grupo 2| Sofia Esther Vargas Vallejos, Milagros Montserrat Alcaraz Quiñónez, Blas Ariel Benega López, Edgar Juan Manuel Galeano Veron| Sistema de control de stock para farmacia | https://sffiaiv.github.io/ingsw1/ |
+| Grupo 3| Melisa Arami Tillner Peralta, Cesar Rafael Pereira Mendieta, Marcelo Moises Benitez Dominguez| Sistema de control de stock para biblioteca | https://melii18.github.io/ingsw1trabajo/ |
 
 > 👉 Para agregar tu grupo a esta tabla, seguí los pasos en [CONTRIBUTING.md](CONTRIBUTING.md). No se aceptan cambios a otras filas que no sean la tuya.
 
