@@ -66,7 +66,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 |---|---|---|---|
 | _(ejemplo)_ | Nombre 1, Nombre 2, Nombre 3 | Sistema de turnos para clínica veterinaria | https://usuario.github.io/repositorio/ |
 | Grupo 1 | Adan Sebastián Estigarribia Vargas, Ángel David Invernizzi Franco, Fabián Andrés Giménez Garcete, Javier De Jesús Franco Vega | Sistema de control de stock para chiperia | https://javierfranco02.github.io/Ingenieria_de_software_I/ |
-| Grupo 2| Sofia Esther Vargas Vallejos, Milagros Montserrat Alcaraz Quiñónez, Blas Ariel Benega López, Edgar Juan Manuel Galeano Veron| Sistema de control de stock para farmacia | https://sffiaiv.github.io/ingsw1/ |
+| Grupo 2| Sofia Esther Vargas Vallejos, Milagros Montserrat Alcaraz Quiñónez, Blas Ariel Benega López, Edgar Juan Manuel Galeano Veron| Sistema de control de stock para farmacia | https://sffiaiv.github.io/ingsw1tp/ |
 | Grupo 3| Melisa Arami Tillner Peralta, Cesar Rafael Pereira Mendieta, Marcelo Moises Benitez Dominguez| Sistema de control de stock para biblioteca | https://melii18.github.io/ingsw1trabajo/ |
 | Grupo 4 | Javier Amancio Cáceres Pera, Iliana Ailen Flecha Aguilera, Vivian Beatriz Obregon Grance, Hanna Lucia Mercedes Salas Perez | Sistema de control de stock comercial | https://javiercaceres476.github.io/ingenieriasw1/ | 
 |Grupo 5|Alan Jose Fabian Cabrera Caceres, Horacio Marcelo Cano Rojas, Alba Marina Lopez Palacios|Sistema de ventas con ecommerce| https://tuzonastreaming6-code.github.io/ingsw1tp/|
