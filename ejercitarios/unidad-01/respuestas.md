@@ -96,15 +96,17 @@ _Respuesta:_
 
 **11. Ordena y nombra las cinco fases genéricas del ciclo de vida del software vistas en clase.**
 
-_Respuesta:_
-
-
+_Respuesta: 
+1. Analisis.
+2. Diseño.
+3. Implementacion.
+4. Pruebas.
+5. Mantenimiento.
 **12. ¿Por qué se afirma que el mantenimiento suele ser la fase más costosa del ciclo de vida del software? Da un ejemplo hipotético.**
 
-_Respuesta:_
-
-
----
+_Respuesta:
+Porque despues de entregar el software sigue siendo necesario corregir errores, agregar mejoras y adaptarlo a nuevos cambios.
+Ejemplo: una aplicacion bancaria debe actualizarse constantemente para mejorar seguridad y agregar nuevas funciones.
 
 ## Tema 6 · Relación con otras áreas de la ciencia de la computación
 
@@ -112,12 +114,10 @@ _Respuesta:_
 
 | Área | ¿Cómo apoya a la Ingeniería de Software? |
 |---|---|
-| Estructuras de datos y algoritmos | |
-| Bases de datos | |
-| Sistemas operativos | |
-| Redes | |
-
----
+| Estructuras de datos y algoritmos | | Permite diseñar soluciones eficientes. |
+| Bases de datos | | Ayudan a modelar y administrar la informacion del sistema. |
+| Sistemas operativos | | Permiten comprender el entorno donde funciona el software. |
+| Redes | | Permiten crear sistemas distribuidos y comunicacion entre equipos. |
 
 ## Tema 7 · Relación con otras disciplinas
 
