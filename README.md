@@ -70,6 +70,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | Grupo 3| Melisa Arami Tillner Peralta, Cesar Rafael Pereira Mendieta, Marcelo Moises Benitez Dominguez| Sistema de control de stock para biblioteca | https://melii18.github.io/ingsw1trabajo/ |
 | Grupo 4 | Javier Amancio Cáceres Pera, Iliana Ailen Flecha Aguilera, Vivian Beatriz Obregon Grance, Hanna Lucia Mercedes Salas Perez | Sistema de control de stock comercial | https://javiercaceres476.github.io/ingenieriasw1/ | 
 |Grupo 5|Alan Jose Fabian Cabrera Caceres, Horacio Marcelo Cano Rojas, Alba Marina Lopez Palacios|Sistema de ventas con ecommerce| https://tuzonastreaming6-code.github.io/ingsw1tp/|
+| Grupo 6 | Francisco David Martínez, Fabrizio Urán, Aquiles Augusto Vera | Sistema de gestión de reservas y ocupación para motel | https://davvidmzs-1.github.io/proyecto-ingsw/ |
 
 > 👉 Para agregar tu grupo a esta tabla, seguí los pasos en [CONTRIBUTING.md](CONTRIBUTING.md). No se aceptan cambios a otras filas que no sean la tuya.
 
