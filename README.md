@@ -1,8 +1,8 @@
-# Ingeniería de Software I - UNINORTE 2026
+# Ingeniería de Software I - UC
 
 Material de cátedra: presentaciones, ejercitarios y el Trabajo Práctico Integrador.
 
-📖 **Bibliografía base:** Pressman, *Ingeniería del Software: Un Enfoque Práctico* (6.ª ed.) · Sommerville, *Ingeniería de Software*
+📖 **Bibliografía base:** Ghezzi, Mandrioli y Jazayeri, *Fundamentals of Software Engineering* (2.ª ed., Prentice Hall, 2003) · Sommerville, *Software Engineering* (Addison-Wesley, 1992)
 
 ---
 
@@ -10,7 +10,6 @@ Material de cátedra: presentaciones, ejercitarios y el Trabajo Práctico Integr
 
 ```
 index.html               → portada del sitio (GitHub Pages)
-diagnostico/             → test diagnóstico de la materia
 presentaciones/          → diapositivas de cada unidad, en formato .pptx
 ejercitarios/            → guías de trabajo (enunciados) para completar después de cada clase
 ejercitarios-plantilla/  → plantilla que cada grupo copia a su propio repo para entregar sus respuestas
@@ -19,32 +18,27 @@ trabajo-practico/        → consigna del TP Integrador y plantilla para los gru
 
 ## 🌐 Sitio publicado
 
-**https://fjlesme.github.io/ingsw1/**
-
-## 🧪 Test diagnóstico
-
-Antes de arrancar la Unidad 1, completá el [test diagnóstico](https://fjlesme.github.io/ingsw1/diagnostico/) — 24 preguntas de opción múltiple, anónimo y sin penalización. Sirve para conocer el punto de partida del curso.
+**https://fjlesme.github.io/ucingsw1/**
 
 ## 🎓 Unidades
 
 | Unidad | Tema | Presentación | Ejercitario |
 |---|---|---|---|
-| 1 | Ingeniería de software: una visión previa | [Ver .pptx](presentaciones/unidad-01-vision-previa.pptx) | [Ver .docx](ejercitarios/unidad-01-ejercitario.docx) |
-| 2 | Ingeniería de Sistemas | [Ver .pptx](presentaciones/unidad-02-ingenieria-de-sistemas.pptx) | [Ver .docx](ejercitarios/unidad-02-ejercitario.docx) |
-| 3 | Procesos del Software y Ciclos de Vida | [Ver .pptx](presentaciones/unidad-03-procesos-del-software.pptx) | [Ver .docx](ejercitarios/unidad-03-ejercitario.docx) |
+| 1 | Ingeniería de software: una visión previa | [Ver .pptx](presentaciones/Ingenieria_de_Software_Vision_Previa.pptx) | [Ver .docx](ejercitarios/unidad-01-ejercitario.docx) |
+| 2 | Software: su naturaleza y sus cualidades | [Ver .pptx](presentaciones/unidad-02-software-naturaleza-cualidades.pptx) | [Ver .docx](ejercitarios/unidad-02-ejercitario.docx) |
+| 3 | Principios de la ingeniería de software | [Ver .pptx](presentaciones/unidad-03-presentacion.pptx) | [Ver .docx](ejercitarios/unidad-03-ejercitario.docx) |
+| 4 | Diseño del software | [Ver .pptx](presentaciones/unidad-04-presentacion.pptx) | [Ver .md](ejercitarios/unidad-04-ejercitario.md) |
 
 > Este repositorio se va actualizando a medida que avanza el semestre. Las unidades futuras se agregan a esta tabla en el mismo formato.
 
 ### 📝 Cómo se entregan los ejercitarios
 
-Los ejercitarios se completan **en grupo** (el mismo grupo del Trabajo Práctico) y se entregan dentro del **repositorio propio del grupo** — el mismo que usan para el TP —, no en este repositorio.
+Los ejercitarios se completan **en grupo** (el mismo grupo de 3 del Trabajo Práctico) y se entregan dentro del **repositorio propio del grupo** — el mismo que usan para el TP —, no en este repositorio.
 
 1. Al principio del semestre, cada grupo agrega una sola vez la carpeta [`ejercitarios/`](ejercitarios-plantilla/ejercitarios) a la raíz de su propio repositorio (o descarga directo el [.zip listo para arrastrar](ejercitarios-plantilla/ejercitarios_carpeta.zip)).
 2. Por cada unidad, completan `ejercitarios/unidad-0X/respuestas.md` editándolo directo desde la web de GitHub.
 3. No hay un paso de "entrega final": el commit con fecha anterior al cierre de cada unidad es la entrega válida.
 4. La cátedra corrige entrando directamente al repositorio del grupo (enlace disponible en la tabla de [Grupos y trabajos](#-grupos-y-trabajos) de abajo).
-
-> ℹ️ Se descartó usar GitHub Classroom para este flujo: GitHub anunció su discontinuación total a partir del 28/08/2026. Por eso los ejercitarios viven en el mismo repositorio que ya usa cada grupo para el TP, sin depender de herramientas externas.
 
 ## 🛠️ Trabajo Práctico Integrador
 
@@ -65,25 +59,12 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | Grupo | Integrantes | Sistema desarrollado | Sitio del grupo |
 |---|---|---|---|
 | _(ejemplo)_ | Nombre 1, Nombre 2, Nombre 3 | Sistema de turnos para clínica veterinaria | https://usuario.github.io/repositorio/ |
-| Grupo 1 | Adan Sebastián Estigarribia Vargas, Ángel David Invernizzi Franco, Fabián Andrés Giménez Garcete, Javier De Jesús Franco Vega | Sistema de control de stock para chiperia | https://javierfranco02.github.io/Ingenieria_de_software_I/ |
-| Grupo 2| Sofia Esther Vargas Vallejos, Milagros Montserrat Alcaraz Quiñónez, Blas Ariel Benega López, Edgar Juan Manuel Galeano Veron| Sistema de control de stock para farmacia | https://sffiaiv.github.io/ingsw1tp/ |
-| Grupo 3| Melisa Arami Tillner Peralta, Cesar Rafael Pereira Mendieta, Marcelo Moises Benitez Dominguez| Sistema de control de stock para biblioteca | https://melii18.github.io/ingsw1trabajo/ |
-| Grupo 4 | Javier Amancio Cáceres Pera, Iliana Ailen Flecha Aguilera, Vivian Beatriz Obregon Grance, Hanna Lucia Mercedes Salas Perez | Sistema de control de stock comercial | https://javiercaceres476.github.io/ingenieriasw1/ | 
-|Grupo 5|Alan Jose Fabian Cabrera Caceres, Horacio Marcelo Cano Rojas, Alba Marina Lopez Palacios|Sistema de ventas con ecommerce| https://tuzonastreaming6-code.github.io/ingsw1tp/|
-| Grupo 6 | Francisco David Martínez, Fabrizio Urán, Aquiles Augusto Vera | Sistema de gestión de reservas y ocupación para motel | https://davvidmzs-1.github.io/proyecto-ingsw/ |
+| Grupo 5-Estrellas | Vivian Frutos, Ana Girett, Araceli Franco | Sistema de gestión de ventas, créditos y stock para despensa | https://anagg27.github.io/5-estrellas/ |
+| Grupo 2 | Elias Salinas, Lucas Perez, Federico Arrua, Luis Saucedo | DevCampus-UC | https://lucasperez04.github.io/dev_study/ |
+| Grupo 3 | Adrian Brun, Luis Martinez, Eber Aldama, Karen Franco | Sistema de gestion p/ agente inmobiliario | https://adroan32.github.io/LUADSB-INMO/ |
 
 > 👉 Para agregar tu grupo a esta tabla, seguí los pasos en [CONTRIBUTING.md](CONTRIBUTING.md). No se aceptan cambios a otras filas que no sean la tuya.
 
-## 📚 Fuentes por unidad
-
-| Unidad | Fuente principal | Complemento |
-|---|---|---|
-| 1 | Pressman, Cap. 1 | — |
-| 2 | Pressman, Cap. 6 — "Ingeniería de sistemas", pp. 133–154 (6.ª ed.) | Sommerville, Cap. 5 y Cap. 10 |
-| 3 | Pressman, Caps. 2 y 3 — "El proceso: una visión general" y "Modelos prescriptivos de proceso", pp. 22–76 (6.ª ed.) | Sommerville, Cap. 4 — "Procesos del software" |
-
-> 📌 Nota sobre ediciones: a partir de la 7.ª edición, Pressman eliminó el capítulo dedicado a "Ingeniería de sistemas" como capítulo independiente. Si consultás una edición distinta a la 6.ª, usá Sommerville como referencia principal para la Unidad 2.
-
 ---
 
-<sub>Repositorio de cátedra — Ingeniería de Software I.</sub>
+<sub>Repositorio de cátedra — Ingeniería de Software I (UC).</sub>
