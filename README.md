@@ -82,6 +82,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | 1 | Pressman, Cap. 1 | — |
 | 2 | Pressman, Cap. 6 — "Ingeniería de sistemas", pp. 133–154 (6.ª ed.) | Sommerville, Cap. 5 y Cap. 10 |
 | 3 | Pressman, Caps. 2 y 3 — "El proceso: una visión general" y "Modelos prescriptivos de proceso", pp. 22–76 (6.ª ed.) | Sommerville, Cap. 4 — "Procesos del software" |
+| 4 | Pressman, Roger S. — Ingeniería del Software: Un Enfoque Práctico (6.ª edición). Capítulo 7 — "Ingeniería de requisitos", pp. 155–194. | Sommerville, Ian — Ingeniería de Software. Capítulos 4 y 5 — "Ingeniería de requerimientos" / "Especificación de requerimientos" (numeración de ediciones recientes; puede variar). |
 
 > 📌 Nota sobre ediciones: a partir de la 7.ª edición, Pressman eliminó el capítulo dedicado a "Ingeniería de sistemas" como capítulo independiente. Si consultás una edición distinta a la 6.ª, usá Sommerville como referencia principal para la Unidad 2.
 
