@@ -72,7 +72,7 @@ El Trabajo Práctico se realiza en grupos y se entrega en tres instancias: **Con
 | Grupo 4 | Javier Amancio Cáceres Pera, Iliana Ailen Flecha Aguilera, Vivian Beatriz Obregon Grance, Hanna Lucia Mercedes Salas Perez | Sistema de control de inventario para mini super | https://javiercaceres476.github.io/ingenieriasw1/ | 
 |Grupo 5|Alan Jose Fabian Cabrera Caceres, Horacio Marcelo Cano Rojas, Alba Marina Lopez Palacios|Sistema de ventas con ecommerce| https://tuzonastreaming6-code.github.io/ingsw1tp/|
 | Grupo 6 | Francisco David Martínez, Fabrizio Urán, Aquiles Augusto Vera, Blas Páez Sosa | Sistema de gestión de reservas y ocupación para motel | https://davvidmzs-1.github.io/proyecto-ingsw/ |
-| Grupo 7 | Willian Prieto | Sistema de ... | falta |
+| Grupo 7 | Willian Mijael Prieto Duarte, Eliam Leonel Cabrera Paez, Lucas Esteban Pereira Benitez, Alejandro Ezequiel Flores Perez | Sistema de Gestion de Gimnasio | https://willianprieto.github.io/ingsw1tp/ | 
 
 > 👉 Para agregar tu grupo a esta tabla, seguí los pasos en [CONTRIBUTING.md](CONTRIBUTING.md). No se aceptan cambios a otras filas que no sean la tuya.
 
