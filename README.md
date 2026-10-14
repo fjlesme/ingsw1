@@ -33,6 +33,7 @@ Antes de arrancar la Unidad 1, completá el [test diagnóstico](https://fjlesme.
 | 2 | Ingeniería de Sistemas | [Ver .pptx](presentaciones/unidad-02-ingenieria-de-sistemas.pptx) | [Ver .docx](ejercitarios/unidad-02-ejercitario.docx) |
 | 3 | Procesos del Software y Ciclos de Vida | [Ver .pptx](presentaciones/unidad-03-procesos-del-software.pptx) | [Ver .docx](ejercitarios/unidad-03-ejercitario.docx) |
 | 4 | Requerimientos | [Ver .pptx](presentaciones/unidad-04-requerimientos.pptx) | [Ver .pdf](ejercitarios/unidad-04-ejercitario.pdf) |
+| 5 | Diseño de Software Conceptual | [Ver .pptx](presentaciones/unidad-05-diseno-de-software-conceptual.pptx) | [Ver .pdf](ejercitarios/unidad-05-ejercitario.pdf) |
 
 > Este repositorio se va actualizando a medida que avanza el semestre. Las unidades futuras se agregan a esta tabla en el mismo formato.
 
